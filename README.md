@@ -47,6 +47,10 @@ fingerprint is:
 AC:D4:99:76:BB:78:21:AA:75:DE:B6:DE:11:F0:4C:8A:CA:80:EA:A2:3E:DC:42:49:B5:9C:A9:FE:78:5D:D8:FF
 ```
 
+## Support
+Performatively is free for everyone. If you enjoy it, you can pay what you want
+(even \$0) on **[Ko-fi](https://ko-fi.com/bunsoootchi/shop)**. Thank you!
+
 ## Feedback
 Found a bug or have an idea? Open an [issue](../../issues).
 
