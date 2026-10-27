@@ -19,6 +19,8 @@ see what you're reading.
 ## Download
 Get the latest `Performatively-vX.Y.apk` from **[Releases](../../releases)**.
 
+☕ If you want to support me, please **[buy me a Ko-fi](https://ko-fi.com/bunsoootchi/shop)**!
+
 ## Install
 1. Download the APK on your phone and open it.
 2. If Android asks, allow your browser or file app to install unknown apps.
@@ -48,8 +50,8 @@ AC:D4:99:76:BB:78:21:AA:75:DE:B6:DE:11:F0:4C:8A:CA:80:EA:A2:3E:DC:42:49:B5:9C:A9
 ```
 
 ## Support
-Performatively is free for everyone. If you enjoy it, you can pay what you want
-(even \$0) on **[Ko-fi](https://ko-fi.com/bunsoootchi/shop)**. Thank you!
+Performatively is free for everyone. If you want to support me, please
+**[buy me a Ko-fi](https://ko-fi.com/bunsoootchi/shop)**. Thank you!
 
 ## Feedback
 Found a bug or have an idea? Open an [issue](../../issues).
