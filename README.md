@@ -38,8 +38,10 @@ to [Obtainium](https://github.com/ImranR98/Obtainium).
   reader works but there is no cover screen.
 
 ## Privacy
-Performatively has no internet access at all. Your books, reading progress and
-stickers never leave your phone. There are no ads and no tracking.
+Your books and stickers never leave your phone. There are no ads, no tracking,
+and no account needed. Optional progress sync saves only your place in each book
+to your own Google Drive, and only if you sign in with Google.
+Privacy policy: https://bunsoootchi.github.io/performatively/privacy.html
 
 ## Check that your download is real
 Every Performatively release is signed with the same key. Its SHA-256 certificate
