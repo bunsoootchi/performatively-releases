@@ -1,4 +1,9 @@
-<p align="center"><img src="assets/wordmark.png" alt="Performatively" width="420"></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.png">
+    <img src="assets/wordmark.png" alt="Performatively" width="420">
+  </picture>
+</p>
 
 <p align="center"><b>Let the world know what you're reading.</b></p>
 
