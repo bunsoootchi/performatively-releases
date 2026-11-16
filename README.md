@@ -2,6 +2,12 @@
 
 <p align="center"><b>Let the world know what you're reading.</b></p>
 
+<h2 align="center">Performatively is now on Google Play!</h2>
+
+<p align="center">The newest version is live on Google Play, with lots more fixes and features than this old beta. It also updates on its own.</p>
+
+<p align="center"><a href="https://play.google.com/store/apps/details?id=com.bunsoootchi.performatively"><img src="assets/google-play-badge.png" alt="Get it on Google Play" height="90"></a></p>
+
 Performatively is a free e-reader for the Samsung Galaxy Z Fold 8. Read on the big
 inner screen, and the outer cover screen shows your book's cover, so everyone can
 see what you're reading.
@@ -17,7 +23,7 @@ see what you're reading.
 - Your books folder becomes your library, and each folder inside it a category
 
 ## Download
-Get the latest `Performatively-vX.Y.apk` from **[Releases](../../releases)**.
+The newest version is on **[Google Play](https://play.google.com/store/apps/details?id=com.bunsoootchi.performatively)**. The old beta APK (0.8.1) is still in **[Releases](../../releases)**.
 
 ☕ If you want to support me, please **[buy me a Ko-fi](https://ko-fi.com/bunsoootchi/shop)**!
 
